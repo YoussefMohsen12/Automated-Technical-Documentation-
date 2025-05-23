@@ -1,7 +1,4 @@
- "Automated Technical Documentation Generation using LLM":
-
-
-
+Automated Technical Documentation Generation using LLM:
 
 > Final Year Graduation Project | Nile University - School of IT & Computer Science | Spring 2024
 
@@ -16,7 +13,7 @@ Key Features
 * 🧾 Code Annotation: Add inline comments to improve code readability and maintainability.
 * 🖼️ Diagram Generation: Visualize class structures using Mermaid.js.
 * 🌍 Multi-language Support: Compatible with Python, Java, C++, JavaScript, SQL, HTML, CSS, PHP, Ruby, and Swift.
-* 🧠 LLM-Powered**: Utilizes the CodeLlama-7B-Instruct-HF model from HuggingFace for documentation generation.
+* 🧠 LLM-Powered: Utilizes the CodeLlama-7B-Instruct-HF model from HuggingFace for documentation generation.
 
 Authors
 
